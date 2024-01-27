@@ -1,1 +1,27 @@
 Library/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib
+# Unity-specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.user
+*.userprefs
+*.sln.docstates
+
+# macOS
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Otros
+*.swp
+*.log
+*.tmp

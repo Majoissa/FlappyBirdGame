@@ -15,7 +15,6 @@ public class Player : MonoBehaviour
         playerRb = GetComponent<Rigidbody2D>(); //a partir de esto voy a poder aplicar fuerzas verticales para que el pajaro de saltos
         playerAnimator = GetComponent<Animator>();//obtengo el componente animator
     }
-
     // Update is called once per frame
     void Update()
     {   //si se presiona la tecla espaciadora o hay al menos un toque en la pantalla
